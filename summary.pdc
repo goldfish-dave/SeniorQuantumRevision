@@ -1,0 +1,132 @@
+% Senior Quantum Mechanics Revision
+% Dave Wilcox
+
+# Contents
+
+* Bohr's model of the atom
+* Schrodinger's equation for a one-electron atom
+* Operators, Eigenfunctions and Eigenvalues
+* Orbital angular Momentum
+* Electron Spin and fine structure of energy Levels
+* Emission of Radiation
+* Identical Particles
+* Multielectron atoms
+* Molecules
+* Recent Developments
+
+# Bohr's Model of the Atom
+
+* Rutherford's Model
+* Bohr's postulates
+* Quantisation
+* Energy levels
+* Finite nuclear mass
+* Emission and absorption of radiation
+* Hydrogran spectrum
+* The correspondence principle
+* Problems with the old quantum theory
+
+# Schrodinger's Equation for a One-electron Atom
+
+* Central potential
+* Separation of the time-independant equation
+* Solution of the equations
+* Eigenvalues
+* Eigenfunctions
+* Quantum numbers
+* Degeneracy
+* Probability Densities
+
+# Operators, Eigenfunctions and Eigenvalues
+
+* Representing physical quantities as operators
+* Schrodinger's Equation as an eigenfunction problem
+* Eigenfunctions
+* Eigenvalues
+
+# Orbital Angular Momentum
+
+* Quantisamtion of angular momentum
+* Operators for magnitude and Z component of orbital angular momentum
+* Expectation values
+* Vector model
+
+# Electron Spin and the Fine structure of Energy Levels
+
+* Orbital magnetic dipole moments
+* Stern-Gerlach experiment
+* Electron spin
+* Spin-orbit interaction
+* Total angular momentum
+* Rules for additon of angular momenta
+* Fine structure of Hydrogren energy levels
+* Dirac's fine structure formula
+* Spectroscopic notation
+* hyperfine structure
+* Hydrogen 21 cm line
+
+# Emission of Radiation
+
+* Radiation form a classical oscillating dipole
+* Time dependent Schrodinger's equation
+* Time dependence of a stationary state
+* Simple model for radiative transition
+* Transition probility
+* Allowed and forbidden transitions
+* Metastable states
+* Spontaneous emission
+* stimulated emission
+* absorption
+* Eintesin relations
+* Laser action
+* nuclear magnetic resonance
+* electron spin resonance
+
+# Identical Particles
+
+* Identical particles
+* Fermions and bosons
+* symmetry of wave functions
+* Pauli Exlusion Principle
+* Singlet and triplet states
+* exchange energy
+* energy levels of helium atom
+* Bose-Einstein condensation
+* Ferromagnetism
+* Lasers
+
+# Multielectron Atoms
+
+* Hartree's method
+* electron configuration
+* shells 
+* subshells
+* approximate expressions for enrgies of shells
+* X-ray line spectra
+* Moseley's measurements
+* alkali atoms
+* LS coupling 
+* selection rules
+* normal and anomalous Zeeman effect
+* Paschen-Bach effect
+
+# Molecules
+
+* Ionic and covalent bonds
+* potential curves for diatomic molecules
+* Rotational spectra
+* vibrational rotational spectra
+* populations of excited rotational and virational states
+* electronic vand spectra
+* Franck-Condon principle
+* Raman spectra
+
+# Recent developments
+
+* Atom traps
+* laser cooling
+* Bose-Einstein condensation
+* Atom optics
+* spintroncis
+* quantum computing
+* quantum cryptography
